@@ -2,28 +2,36 @@
 
 # 👋 Hi, I'm Anubhav
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Network+Security+%7C+Web+Security;Python+%26+Bash+Automation;Learning+Cloud+Security;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Web+%26+Network+Security;Python+%7C+Bash+Automation;Learning+AWS+Cloud+Security;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=hackasticguy&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
-<a href="https://github.com/hackasticguy">
-<img src="https://img.shields.io/github/followers/hackasticguy?label=Followers&style=for-the-badge"/>
-</a>
-</p>
+<br>
 
-### 🛡️ Cybersecurity Enthusiast • Open Source Learner • Security Automation
+![](https://komarev.com/ghpvc/?username=hackasticguy&label=PROFILE+VIEWS&style=for-the-badge&color=0891b2)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-liard-psi-43.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anubhav0010/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/hackasticguy)
+[![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/3720480)
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🛡️ About Me
 
-I'm **Anubhav**, a passionate **Cybersecurity Enthusiast** who enjoys learning through hands-on projects, CTF challenges, and practical experimentation.
+I'm **Anubhav**, a passionate **Cybersecurity Enthusiast** who enjoys building practical projects, solving CTFs, and exploring modern security technologies.
 
-I'm currently exploring **Web Security**, **Network Security**, **Cloud Security (AWS)**, **OSINT**, and **Security Automation** while continuously improving my programming and Linux skills.
+My interests include:
 
-> **Learning, Building, and Sharing one project at a time.**
+- 🔐 Web Application Security
+- 🌐 Network Security
+- ☁️ AWS Cloud Security
+- 🔍 OSINT
+- 🐧 Linux
+- 🐍 Python & Bash Automation
+- 🤖 AI for Cybersecurity
+
+> **Learning through projects, experimenting with new technologies, and continuously improving my skills.**
 
 ---
 
@@ -35,7 +43,7 @@ I'm currently exploring **Web Security**, **Network Security**, **Cloud Security
 <img src="https://skillicons.dev/icons?i=python,bash,html,css,js,c,mysql"/>
 </p>
 
-### ⚙️ Tools & Platforms
+### 🖥️ Platforms & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,aws,vscode"/>
@@ -66,13 +74,12 @@ I'm currently exploring **Web Security**, **Network Security**, **Cloud Security
 # 🌱 Currently Learning & Exploring
 
 - ☁️ AWS & Cloud Security
-- 🌐 Network Configuration & Network Security
-- 🔐 Web Application Security
-- 🛡️ Penetration Testing Methodologies
+- 🌐 Network Configuration
+- 🔒 Web Application Security
+- 🛡️ Penetration Testing
 - 🐍 Python & Bash Security Automation
-- 🐧 Linux Administration
-- 🤖 AI for Cybersecurity
-- 🚩 Capture The Flag (TryHackMe & Hack The Box)
+- 🤖 AI Agents for Cybersecurity
+- 🚩 Capture The Flag Challenges
 
 ---
 
@@ -80,25 +87,25 @@ I'm currently exploring **Web Security**, **Network Security**, **Cloud Security
 
 ### 🤖 AI Agent Recon
 
-AI-powered reconnaissance automation using **n8n**, **OSINT**, and workflow automation.
+AI-powered reconnaissance automation using **n8n** and **OSINT**.
 
 🔗 https://github.com/hackasticguy/ai-agent-reconn
 
 ---
 
-### 🌐 Personal Portfolio
+### 🌐 Portfolio
 
-A responsive portfolio showcasing my cybersecurity journey, projects, and technical skills.
+Personal portfolio showcasing my projects, certifications, and cybersecurity journey.
 
-🔗 Repository: https://github.com/hackasticguy/portfolio
+🌍 https://portfolio-liard-psi-43.vercel.app/
 
-🌍 Live: https://portfolio-liard-psi-43.vercel.app/
+🔗 https://github.com/hackasticguy/portfolio
 
 ---
 
 ### 🎓 Campus Share
 
-A community platform where students can borrow, lend, and exchange useful resources.
+A platform that helps students borrow, lend, and exchange useful resources.
 
 🔗 https://github.com/hackasticguy/Campus-share
 
@@ -106,7 +113,7 @@ A community platform where students can borrow, lend, and exchange useful resour
 
 ### 🤖 Code Saathi
 
-An AI-powered research assistant built to help developers discover relevant technical information.
+An AI-powered research assistant for developers.
 
 🔗 https://github.com/hackasticguy/code-saathi
 
@@ -114,7 +121,7 @@ An AI-powered research assistant built to help developers discover relevant tech
 
 ### 🌐 Network Configuration
 
-Hands-on networking labs and configuration experiments to strengthen networking fundamentals.
+Networking labs and configuration experiments for strengthening networking fundamentals.
 
 🔗 https://github.com/hackasticguy/network-configuration-
 
@@ -122,7 +129,7 @@ Hands-on networking labs and configuration experiments to strengthen networking 
 
 ### 📚 Git Learning
 
-My Git & GitHub learning repository containing notes and practical exercises.
+Git & GitHub learning repository with practical exercises.
 
 🔗 https://github.com/hackasticguy/git-learning
 
@@ -144,79 +151,18 @@ My Git & GitHub learning repository containing notes and practical exercises.
 
 # 🚩 Practice Platforms
 
-<p>
-
-<a href="https://tryhackme.com/p/hackasticguy">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-</a>
-
-<a href="https://app.hackthebox.com/users/3720480">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-</a>
-
-</p>
+- 🧩 TryHackMe → https://tryhackme.com/p/hackasticguy
+- 🛡️ Hack The Box → https://app.hackthebox.com/users/3720480
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
-<p align="center">
+> My repositories contain hands-on learning projects in cybersecurity, automation, networking, AI, and web development.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hackasticguy&show_icons=true&theme=tokyonight&hide_border=true"/>
+📂 All Repositories
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackasticguy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hackasticguy&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hackasticguy&theme=tokyonight&column=7&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hackasticguy&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 📌 Pinned Projects
-
-<p align="center">
-
-<a href="https://github.com/hackasticguy/ai-agent-reconn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackasticguy&repo=ai-agent-reconn&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/hackasticguy/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackasticguy&repo=portfolio&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/hackasticguy/Campus-share">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackasticguy&repo=Campus-share&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/hackasticguy/code-saathi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hackasticguy&repo=code-saathi&theme=tokyonight"/>
-</a>
-
-</p>
+➡️ https://github.com/hackasticguy?tab=repositories
 
 ---
 
@@ -225,19 +171,19 @@ My Git & GitHub learning repository containing notes and practical exercises.
 <p align="center">
 
 <a href="https://portfolio-liard-psi-43.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anubhav0010/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/hackasticguy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:anubhavkushwaha0010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -250,7 +196,7 @@ My Git & GitHub learning repository containing notes and practical exercises.
 
 > **"Learn • Build • Secure • Repeat."**
 
-*"Cybersecurity is a journey of continuous learning, curiosity, and responsible innovation."*
+*"Every project is an opportunity to learn something new."*
 
 ⭐ Thanks for visiting my profile!
 
