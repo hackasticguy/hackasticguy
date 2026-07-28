@@ -365,8 +365,11 @@ I believe in:
 🚩 Platforms       : TryHackMe • Hack The Box
 🌐 Portfolio       : portfolio-liard-psi-43.vercel.app
 ```
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hackasticguy/hackasticguy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
 
 <div align="center">
 
