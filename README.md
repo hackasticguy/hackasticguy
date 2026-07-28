@@ -306,15 +306,6 @@ I regularly practice on **TryHackMe** and **Hack The Box** to strengthen my skil
 - 🚀 Develop impactful real-world security projects
 
 ---
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hackasticguy&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-
-</div>
-
----
 
 # 📬 Connect With Me
 
@@ -377,18 +368,6 @@ I believe in:
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Optional:** This works after configuring the **Platane/snk** GitHub Action.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/hackasticguy/hackasticguy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</p>
-
----
-
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
@@ -403,6 +382,3 @@ If you like my work or find my projects useful, consider giving them a ⭐ and f
 ## 📊 GitHub Metrics
 
 ![Metrics](https://metrics.lecoq.io/hackasticguy)
-## 🎖️ Badges
-
-[![Holopin](https://holopin.me/hackasticguy)](https://holopin.io/@hackasticguy)
